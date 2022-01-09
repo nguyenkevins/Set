@@ -14,3 +14,5 @@ collection of SET cards.
 1) Open a terminal and use "cd" command to the src directory of the project
 2) Type 'javac Main.java'. This should compile the java code.
 3) Type 'cat "input.txt" | java Main'. The "input.txt" can be replaced with other local file in the src folder.
+
+![Demo1](https://github.com/nguyenkevins/Set/blob/master/src/Sample.png)
